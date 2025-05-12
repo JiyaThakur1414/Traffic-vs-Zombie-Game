@@ -2,6 +2,7 @@
 A thrilling Pygame-based survival game where you drive a car through traffic and destroy zombies to survive as long as possible.
 
 🎮 Features
+
 1.3D-style animated zombies walking from all directions
 
 2.Multiple AI-controlled traffic cars (truck, small car, sports car)
